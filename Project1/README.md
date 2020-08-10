@@ -24,7 +24,8 @@ Here is a sample of the SAT and ACT data types for 2017 that are found in the da
 |**act17reading**|*float*|2017 ACT data|Statewide mean reading score of the ACT taking cohort in 2017 |
 |**act17science**|*float*|2017 ACT data|Statewide mean science score of the ACT taking cohort in 2017 |
 
-### Recommendations to College Board for measures in rural states
+# Recommendations to College Board for measures to take to increase SAT participation in rural states
+It can be observed that every state with below 10% participation in the SAT in both years is relatively rural, which many of these states being in the Midwest. Additionally, not all of these states have >90% participation in the ACT, suggesting that it may not just be statewide policy in these states that causes this.
 
 The first option to College board is to work together with state education boards to pursue policy reform with the intention of making SAT participation mandatory statewide. This was done in Illinois and Colorado and contributed to the two largest positive changes in SAT parcipation observed between 2017 and 2018. It should be noted that this was achieved by College Board submitting better bids than the ACT. It is likely that incentivising state education boards to jump ship with price packages and logistical support will be necessary.
 
