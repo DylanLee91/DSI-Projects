@@ -45,13 +45,13 @@ With a dataset of (anonymised) student identification, test participation and as
 
 For example, one possible form of the regression could be:
 
-$$y_t=x_t\beta+ε_t$$
+yt=xtß+εt
 
 where:
 
-$yt$ is the change of participation rate in SAT tests of a given sample socioeconomic population in period t        
-$x_t\beta$ is the set of interventions in period t that are hypothesized to  affect the participation rate        
-$ε_t$ is an error term
+yt is the change of participation rate in SAT tests of a given sample socioeconomic population in period t        
+xtß is the set of interventions in period t that are hypothesized to  affect the participation rate        
+εt is an error term
 
 With a more complete data set, a linear regression model could be explored and thus a more robust statistical forecast of the effectiveness of treatment measures that improve SAT participation could be made.
 
