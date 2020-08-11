@@ -24,8 +24,8 @@ Here is a sample of the SAT and ACT data types for 2017 that are found in the da
 |**act17reading**|*float*|2017 ACT data|Statewide mean reading score of the ACT taking cohort in 2017 |
 |**act17science**|*float*|2017 ACT data|Statewide mean science score of the ACT taking cohort in 2017 |
 
-# Recommendations to College Board for measures to take to increase SAT participation in rural states
-It can be observed that every state with below 10% participation in the SAT in both years is relatively rural, which many of these states being in the Midwest. Additionally, not all of these states have >90% participation in the ACT, suggesting that it may not just be statewide policy in these states that causes this.
+# Recommendations to College Board for measures to take to increase SAT participation in Midwestern states
+It can be observed that every state with below 10% participation in the SAT in both years is relatively rural, with many of these states being in the Midwest. Additionally, not all of these states have >90% participation in the ACT, suggesting that it may not just be statewide policy in these states that causes this.
 
 The first option to College board is to work together with state education boards to pursue policy reform with the intention of making SAT participation mandatory statewide. This was done in Illinois and Colorado and contributed to the two largest positive changes in SAT parcipation observed between 2017 and 2018. It should be noted that this was achieved by College Board submitting better bids than the ACT. It is likely that incentivising state education boards to jump ship with price packages and logistical support will be necessary.
 
@@ -74,6 +74,18 @@ U.S. News &amp; World Report, U.S. News & World Report, www.usnews.com/news/educ
 
 ###### [6] “Harvard Drops the SAT Essay Requirement, What Does This Mean for Your Students?” 
 Laet, Katie Rose-De. Applerouth, www.applerouth.com/blog/2018/04/10/harvard-drops-the-sat-essay-requirement-what-does-this-mean-for-your-students/.
+
+###### [7] “File:SAT-ACT-Preference-Map.svg.” 
+File:SAT-ACT-Preference-Map.svg - Wikimedia Commons, www.commons.wikimedia.org/wiki/File:SAT-ACT-Preference-Map.svg.
+
+###### [8] “New York City Offers SAT to All High School Juniors, Hoping to Clear a Path to College.” 
+Veiga, Christina.Chalkbeat New York, Chalkbeat New York, 3 Apr. 2017, www.ny.chalkbeat.org/2017/4/3/21099704/new-york-city-offers-sat-to-all-high-school-juniors-hoping-to-clear-a-path-to-college.
+
+###### [9] “SAT School Day.” 
+SAT Suite of Assessments, 11 May 2018, www.collegereadiness.collegeboard.org/sat/k12-educators/sat-school-day.
+
+###### [10] “SAT School Day.” “More Than 2 Million Students in the Class of 2018 Took the SAT, Highest Ever.” 
+The College Board, 18 Mar. 2019, www.collegeboard.org/releases/2018/more-than-2-million-students-in-class-of-2018-took-sat-highest-ever.
 
 ###### Appendix 2: External Data Sources
 2017 ACT Data 
