@@ -1,7 +1,7 @@
 # Data Science Immersive Project 1: 
 ### SAT & ACT Analysis & Policy Recommendations to College Board
 ## Introduction: How can College Board increase SAT participation rates?
-The SAT is a standardised university admissions test administed by College board that competes with the ACT, another standardised test. Many states in the USA make testing mandatory for one of the two tests, while others do not and leave it up to their students to elect to take one.
+The SAT is a standardised university admissions test administed by College board that competes with the ACT, another standardised test. Many states in the USA make testing mandatory for one of the two tests, while others do not and leave it up to their students to elect to take one or both.
 
 Using the provided dataset that contains data on SAT and ACT average test scores and participation rates by US state for the year 2017 and 2018, an exploratory analysis and visualisation of the data will be constructed, to identify useful qualitative and quantitative relationships in the data between states, test scores, and participation rates.
 
