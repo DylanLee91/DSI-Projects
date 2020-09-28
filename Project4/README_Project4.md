@@ -69,3 +69,30 @@ Our best predictive model for the presence of West Nile Virus across Windy City 
 
 Below are the summary of top 30 coefficients that are most useful for predicting the presence of West Nile Virus in Windy City.
 ![image](../logreg.png)
+
+# Key Findings
+### Cost:
+It cost approximately USD$25,000 to spray an area of 28 squared km by Vector Disease Control International, the provider for Chicago this year.
+Scaling appropriately, the cost would be about USD$540,000.
+### Benefit
+1 in 5 people infected with WNV develop West Nile fever and 1 in 150 people develop more severe symptoms
+In 2017, there were 90 WNV cases, including 8 deaths. Assuming the median household income in Chicago of $55,295 and an average hospital cost of USD$25,000 per patient, the cost was approximately USD$490,000.
+### Analysis
+It will not be economic to conduct spraying insecticide, given the lack of impact.
+
+# Recommendations
+- Insecticide spraying has not proven to be significant in reducing infection rates and requires more data and more campaigns for us to optimise its impact. In the meantime, we should also focus on other courses of action based on our findings.
+- Prepare ahead of time to combat the West Nile Virus during the period it is most likely to occur and invest more resources in:
+  - Public information campaigns to prevent behaviour that would lead to mosquitos breeding
+  - Increased testing, especially of traps that have a high prevalence of infection and traps that are close to previously infected traps
+- Focus on developing strategies specific to the two species Culex Pipiens and Culex Restuans e.g. releasing sterilised mosquitoes to breed with the mosquitos in the area.
+- Leverage a predictive model based on weather data and past data, to predict the most infectious periods and prepare for outbreaks
+
+# Conclusion
+
+### Project Limitations
+- We would have more insight into the course of action and performance of each model if we knew how our test data scores on different metrics: sensitivity, f1 score, accuracy etc., as currently, we are only able to score these by splitting our train data.
+- With more data on weather for the whole year, we would be able to better create our averaged weather metrics as well as see overarching trends for each year.
+The setup of the dataset (samples split into bins of 50) is not conducive to creating a model that predicts for - - WNV at each location as the datasets should be grouped by samples taken.
+### In conclusion:
+Overall, our model helped us to find the most predictive features and we can continue to use it to help the city to identify potential outbreaks. It will need to be combined with vigilant monitoring on the ground, particularly during high risk periods.
