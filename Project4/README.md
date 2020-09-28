@@ -9,19 +9,24 @@ By Alexis, Alyse, Dylan and Wei Tian
     - Supporting Documnet: Definitions and description for the weather dataset
 - **Spray data:** The City of Chicago also does spraying to kill mosquitos. Spray data are only provided for year 2011 and 2013.
 
-### Our project is split into three notebooks:
-- #### Notebook 1:
-    - Introduction, Business Case & Problem Statement
-    - Executive Summary
-    - Data Processing (Train/Test, Weather and Spray datasets)
-- #### Notebook 2:
-    - Data Exploration (EDA)
-    - Feature Engineering
-    - Feature Selection
-- #### Notebook 3:
-    - Data Modelling
-    - Key Findings & Recommendations
-    - Conclusion
+### Our project is split into three main notebooks:
+#### Notebook 1: 
+   - Introduction, Business Case & Problem Statement
+   - Executive Summary
+   - Data Processing (Train/Test, Weather and Spray datasets)
+
+#### Notebook 2: 
+   - Data Exploration (EDA)
+   - Feature Engineering
+   - Feature Selection
+
+#### Notebook 3: 
+   - Data Modelling
+   - Key Findings & Recommendations 
+   - Conclusion
+   
+#### (Supplementary) Notebook 3.5:
+   - Additional Information on Modelling 
 
 # Introduction
 ![cover](images/wnvimage_1.jpg)
