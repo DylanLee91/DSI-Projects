@@ -8,7 +8,10 @@ By Alexis, Alyse, Dylan and Wei Tian
 - **Weather data:** Dataset from NOAA of the weather conditions of 2007 to 2014, during the months of the tests.
     - Supporting Documnet: Definitions and description for the weather dataset
 - **Spray data:** The City of Chicago also does spraying to kill mosquitos. Spray data are only provided for year 2011 and 2013.
-
+## Data Storage
+The dataset used is too big to be stored on google. It can be found on google drive, under Wei Tian's ownership:
+https://drive.google.com/drive/u/1/folders/1m-QVqpfC5zXQxArNg4QHzYYAONfqON0V
+You may have to request permission to access the folder
 ### Our project is split into three main notebooks:
 #### Notebook 1: 
    - Introduction, Business Case & Problem Statement
