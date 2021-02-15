@@ -1,0 +1,11 @@
+dominant topic,keywords,tweetcount,topic_percent
+0,topic_1,"['username', 'man', 'united', 'concede', 'lose', 'goal', 'city', 'manchester', 'season', 'utd']",23933,0.11521371800488141
+1,topic_2,"['live', 'username', 'vs', 'watch', 'stream', 'match', 'free', 'hd', 'league', 'link']",9993,0.04810640889244056
+2,topic_3,"['username', 'never', 'pron', 'walk', 'alone', 'say', 'united', 'really', 'embarrass', 'tell']",11041,0.05315149210261545
+3,topic_4,"['username', 'united', 'hold', 'fan', 'manchester', 'laugh', 'go', 'let', 'see', 'beer']",16221,0.07808806751168601
+4,topic_5,"['username', 'goal', 'one', 'grealish', 'watkins', 'fpl', 'two', 'min', 'three', 'minute']",20527,0.09881719757181301
+5,topic_6,"['username', 'pron', 'well', 'get', 'good', 'play', 'team', 'think', 'mane', 'go']",51321,0.24705984296697106
+6,topic_7,"['username', 'fan', 'man', 'utd', 'football', 'make', 'big', 'watch', 'help', 'goal']",20232,0.09739706441627713
+7,topic_8,"['username', 'score', 'barkley', 'win', 'watkins', 'yet', 'go', 'today', 'ollie', 'dey']",23978,0.11543034848623433
+8,topic_9,"['username', 'happen', 'fucking', 'fuck', 'please', 'beat', 'go', 'need', 'liverpools', 'lol']",13308,0.06406485435210638
+9,topic_10,"['username', 'first', 'half', 'league', 'score', 'goal', 'premier', 'time', 'since', 'watkins']",17173,0.08267100569497465

@@ -1,0 +1,10 @@
+dominant topic,keywords,tweetcount,topic_percent
+0,topic_1,"['go', 'first', 'time', 'game', 'goal', 'league', 'half', 'need', 'let', 'match']",4843,0.12513888530012143
+1,topic_2,"['man', 'utd', 'penalty', 'ole', 'get', 'maguire', 'player', 'min', 'wheel', 'need']",5805,0.1499961241311594
+2,topic_3,"['right', 'play', 'fan', 'patrice', 'team', 'evra', 'one', 'deserve', 'sky', 'mulive']",3317,0.08570837962843338
+3,topic_4,"['live', 'stream', 'fee', 'add', 'telles', 'alex', 'join', 'also', 'player', 'move']",1926,0.04976615591328389
+4,topic_5,"['goal', 'son', 'man', 'username', 'old', 'utd', 'trafford', 'kane', 'score', 'mins']",6558,0.16945298571096354
+5,topic_6,"['username', 'game', 'get', 'pron', 'one', 'cavani', 'sign', 'see', 'sancho', 'back']",4847,0.1252422418025374
+6,topic_7,"['fan', 'see', 'sancho', 'buy', 'jose', 'mourinho', 'evra', 'go', 'sky', 'right']",3227,0.08338285832407431
+7,topic_8,"['telles', 'alex', 'medical', 'hour', 'next', 'transfer', 'reach', 'agreement', 'last', 'go']",2699,0.06973980000516783
+8,topic_9,"['martial', 'red', 'card', 'lamela', 'username', 'man', 'solskjaer', 'send', 'utterly_delude', 'anyone_blaming']",5479,0.1415725691842588
