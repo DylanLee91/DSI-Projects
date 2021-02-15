@@ -1,7 +1,17 @@
 # ![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/main/ga_logo.png?raw=true) Early Detection for West Nile Virus in Chicago, Illinois
 ### DSI-16 Project 4
 By Alexis, Alyse, Dylan and Wei Tian
-# Content
+
+# Introduction
+![cover](images/wnvimage_1.jpg)
+West Nile Virus has been endemic to the area of Windy City, Chicago. In North America, cases of WNV occur during mosquito season, which starts in the summer and continues through fall. Across the country, 2,647 cases of WNV were reported in humans, and there were 167 (6.3%) confirmed deaths in 2018. This is a rather significant illness where death rate is consistently at about 5-7% every year, which is a huge cause for concern.
+
+#### What is West Nile Virus?
+West Nile virus is a serious disease most commonly spread by infected mosquitoes. Mosquitoes become infected when they feed on infected birds. Infected mosquitoes can then spread the virus to humans and other animals. Symptoms (see below) are usually mild, but in rare cases, severe illness including encephalitis (inflammation of the brain), meningitis (inflammation of the lining of the brain and spinal cord), or even death, can occur.
+
+[Source](https://cookcountypublichealth.org/communicable-diseases/west-nile-virus/)
+
+## Content
 ## Data Utilised
 - **Train:** The training data consist of sample data from 2007, 2009, 2011, and 2013.
 - **Test data:**  The test data are samples from 2008, 2010, 2012, and 2014 which we would need to predict.
@@ -30,15 +40,6 @@ You may have to request permission to access the folder
    
 #### (Supplementary) Notebook 3.5:
    - Additional Information on Modelling 
-
-# Introduction
-![cover](images/wnvimage_1.jpg)
-West Nile Virus has been endemic to the area of Windy City, Chicago. In North America, cases of WNV occur during mosquito season, which starts in the summer and continues through fall. Across the country, 2,647 cases of WNV were reported in humans, and there were 167 (6.3%) confirmed deaths in 2018. This is a rather significant illness where death rate is consistently at about 5-7% every year, which is a huge cause for concern.
-
-#### What is West Nile Virus?
-West Nile virus is a serious disease most commonly spread by infected mosquitoes. Mosquitoes become infected when they feed on infected birds. Infected mosquitoes can then spread the virus to humans and other animals. Symptoms (see below) are usually mild, but in rare cases, severe illness including encephalitis (inflammation of the brain), meningitis (inflammation of the lining of the brain and spinal cord), or even death, can occur.
-
-[Source](https://cookcountypublichealth.org/communicable-diseases/west-nile-virus/)
 
 # Business Case
 Disease and Treatment Agency, division of Societal Cures In Epidemiology and New Creative Engineering (DATA-SCIENCE). Our agency is a national public health institute in the United States. Our mission is to identify potential diseases in our country and counter the spread of these illnesses to promote the health and safety of our people.
