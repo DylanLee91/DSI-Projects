@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/main/ga_logo.png?raw=true) Early Detection for West Nile Virus in Windy City, Illinois
+# ![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/main/ga_logo.png?raw=true) Early Detection for West Nile Virus in Chicago, Illinois
 ### DSI-16 Project 4
 By Alexis, Alyse, Dylan and Wei Tian
 # Content
